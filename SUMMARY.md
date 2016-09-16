@@ -8,4 +8,5 @@
 * [Colocación del "z-motor-support"](4.colocacion_del_z-motor-support.md)
 * [Colocación de las varillas lisas del eje Z](colocacion_de_las_varillas_lisas_del_eje_z.md)
 * [Colocación del "yz_carriage"](colocacion_del_yzcarriage.md)
+* Colocacion de los soportes para la electrónica
 
