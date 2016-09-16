@@ -16,3 +16,5 @@ Me planteé entonces empezar de nuevo. Buscar un diseño mas sencillo, algo que 
 Por el camino se cruzó la M Prime One que me fascinó en cuanto la ví: Sólo cuatro motores, pocas piezas impresas, sólo impresión en PLA (base de impresión fría), muy accesible, parecía fácil de montar y de mantener, el carro vertical del eje Z se podía mover manualmente hacia arriba, (uno de mis traumas al cancelar las impresiones en la PowerCode), consumía poco (fuente de 5A), pequeña de tamaño... 
 
 Esta vez la inversión tenía que ser mínima, ya había invertido bastante sin conseguir buenos resultados. Hice cortar con láser una estructura de DM y empecé con el montaje. En este documento pretendo explicar los pasos que hice para montarla, por si le sirve de ayuda a alguien.
+
+Agradecer a Diego Trapero tanto el magnífico diseño como la inestimable  ayuda y la rapidez en responder a todas mis cuestiones, que me facilitaron mucho el montaje.
