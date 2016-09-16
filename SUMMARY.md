@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 * [La estructura](1.La_estructura.md)
 * [Las piezas de plástico](2.las_piezas_de_plastico.md)
 * [Preparación de los "smooth rod holders"](3colocacion_de_los_soportes_para_las_barras_lisas.md)
