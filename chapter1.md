@@ -1,3 +1,11 @@
-# First Chapter
+# 1. La estructura
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Estuve dando vueltas al tema de la estructura durante algunos días. La experiencia con el metacrilato no había sido buena y eso me influyó en no querer usar la estructura acrílica "oficial", por lo que decidí utilizar una estructura de DM, que además era la opción mas económica. La pieza de DM me costó 2,5€ y el corte láser en el Fabcafé de Barcelona, 9,5€.
+
+No me pude poner a montarla inmediatamente. El DM cortado por láser huele a chamusquina que tira de espaldas. Tuvo que estar al aire libre algunos días antes de que se le fuese el olor lo suficiente como para poder manipularlo.
+
+Para darle un toque "vintage" le dí una capa de esmalte blanco y antes de que se secara froté con un trapo mojado en disolvente. 
+
+Este es el resultado.
+
+![](https://lh3.googleusercontent.com/UrOMyI-QZW77xipjCE8n-AFw50UjpfkgZLAi2cVBocwLn_RnEfkeSXQ_69gA4f0gqG179FAAFQ=w1920-h1080-rw-no)
