@@ -18,3 +18,4 @@ Una vez colocados los rodamientos lineales, desplazamos las barras lisas e intro
 
 ![](https://lh3.googleusercontent.com/a0W9Zq40bU8AI8-AZwKY1orDGPFGUYoOs9R5hAm9eXL1bYrZ_yH0zKKVmRmVk7wzzBQRp-IzZA=w1920-h1080-rw-no)
 
+![](https://lh3.googleusercontent.com/sU17aRmUTSu7VnzpnPTDxeH5w_HS4sVSubHEk1SajF_ionB_dBT-FvUtG6l75D7HHX-GjVylGg=w1920-h1080-rw-no)
