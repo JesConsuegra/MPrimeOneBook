@@ -1,6 +1,6 @@
-# 3.Colocación de los soportes para las barras lisas
+# Preparación de los "smooth rod holders"
 
-En este paso vamos a preparar y montar sobre el marco los cuatro "smooth-rod-holders", las cuatro piezas de plástico que soportan las guías metálicas del eje Z.
+En este paso vamos a preparar  los cuatro "smooth-rod-holders", las cuatro piezas de plástico que soportan las guías metálicas del eje Z.
 Cada "smooth-rod-holder" tiene tres alojamientos para tres tornillos: dos en el mismo plano y uno en un plano perpendicular. Los dos del mismo plano son los que anclan luego la pieza al marco.
 
 Primero vamos a montar el tornillo que sujeta el eje, y luego montaremos los dos tornillos que anclan la pieza al marco paso.
