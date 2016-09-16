@@ -9,5 +9,5 @@
 * [Colocación de las varillas lisas del eje Z](colocacion_de_las_varillas_lisas_del_eje_z.md)
 * [Colocación del "yz_carriage"](colocacion_del_yzcarriage.md)
 * [Colocacion de los soportes para la electrónica](colocacion_de_los_soportes_para_la_electronica.md)
-* Colocación de los rodamientos lineales en el "yz_carriage"
+* [Colocación de los rodamientos lineales en el "yz_carriage"](colocacion_de_los_rodamientos_lineales_en_el_yzcar.md)
 
