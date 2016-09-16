@@ -1,6 +1,5 @@
-Indice
+# Summary
 
-[Introducción](README.md)
-[1. La estructura](chapter1.md)
-2. Las piezas de plástico
+* [Introduction](README.md)
+* [Las piezas de plástico](2.las_piezas_de_plastico.md)
 
