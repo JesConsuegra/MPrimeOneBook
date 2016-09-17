@@ -16,4 +16,5 @@
 * [Arrastre del eje X](arrastre_del_eje_x.md)
 * [Arrastre del eje Y](arrastre_del_eje_y.md)
 * [Montaje de los finales de carrera](montaje_de_los_finales_de_carrera.md)
+* Colocación de los imanes en el carro X para la sujección de la base de impresión
 
