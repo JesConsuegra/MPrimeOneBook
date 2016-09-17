@@ -15,4 +15,5 @@
 * [Montaje del eje Y](montaje_del_eje_y.md)
 * [Arrastre del eje X](arrastre_del_eje_x.md)
 * [Arrastre del eje Y](arrastre_del_eje_y.md)
+* Montaje de los finales de carrera
 
