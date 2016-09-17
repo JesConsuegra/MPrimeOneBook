@@ -12,4 +12,5 @@
 * [Colocación de los rodamientos lineales en el "yz_carriage"](colocacion_de_los_rodamientos_lineales_en_el_yzcar.md)
 * [Montaje del eje X](montaje_del_eje_x.md)
 * [Preparación de la fuente de alimentación](preparacion_de_la_fuente_de_alimentacion.md)
+* Montaje del eje Y
 
