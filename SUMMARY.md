@@ -11,5 +11,5 @@
 * [Colocacion de los soportes para la electrónica](colocacion_de_los_soportes_para_la_electronica.md)
 * [Colocación de los rodamientos lineales en el "yz_carriage"](colocacion_de_los_rodamientos_lineales_en_el_yzcar.md)
 * [Montaje del eje X](montaje_del_eje_x.md)
-* Preparación de la fuente de alimentación
+* [Preparación de la fuente de alimentación](preparacion_de_la_fuente_de_alimentacion.md)
 
