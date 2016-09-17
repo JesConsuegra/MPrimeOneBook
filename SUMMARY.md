@@ -13,5 +13,5 @@
 * [Montaje del eje X](montaje_del_eje_x.md)
 * [Preparación de la fuente de alimentación](preparacion_de_la_fuente_de_alimentacion.md)
 * [Montaje del eje Y](montaje_del_eje_y.md)
-* Arrastre del eje X
+* [Arrastre del eje X](arrastre_del_eje_x.md)
 
