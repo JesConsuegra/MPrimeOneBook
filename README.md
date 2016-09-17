@@ -1,5 +1,7 @@
 # El camino a la M Prime One
 
+![](P2224007.jpg)
+
 Durante bastante tiempo infravaloré la tecnología FDM de impresión 3D a raiz de los resultados (pobres) que observé en la red, probablemente debido a mi falta de perspectiva sobre lo que la evolución de la impresión 3D podría significar a nivel social. He pagado cara esta evaluación, llevo años de retraso en esta importantísima tecnología.
 
 Cuando me decidí a dar el salto ya era muy tarde. Demasiada información para leer antes de meterme en el asunto, así que me busqué un kit en eBay para empezar inmediatamente. Por lo que había leído hasta la fecha, lo mas conveniente parecía ser una impresora cartesiana, basada en la Prusa I3 de Josefz Prusa, preferentemente de origen nacional (por el tema de soporte) de carro ancho (30x20cm) y con base de impresión caliente. Encontré una oferta de la PowerCode de Mecan0, que encajaba en  mi idea y me lancé a por ella. 
