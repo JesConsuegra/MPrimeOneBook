@@ -12,3 +12,8 @@ Imprimí las piezas a un relleno del 50% en ABS. Las ventajas de este extrusor s
 La colocación de este extrusor exige la perforación de dos nuevos agujeros de 3mm en el marco de la impresora, en la parte superior, al lado del asa.
 
 ![](https://lh3.googleusercontent.com/__fgDKq8g5yEHztwAUaz7rZXTqdrJYZOflEdD3XnrcQMYK7rUynXWsWXKh8kAzKa2WSFiZCdBg=w1920-h1080-rw-no)
+
+Sobre el que se vé en las fotos anteriores he hecho algunas mejoras:
+
+![](https://lh3.googleusercontent.com/OZ2-KPxQDHW6vUsBAcWKkcuwl0PFNv0TJe4SXsQX5Xs3iWxBmca2rr1qyBRsWUfsDjLEaM9SHw=w1920-h1080-rw-no)
+
