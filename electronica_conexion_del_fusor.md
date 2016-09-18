@@ -14,4 +14,4 @@ Los termistores no tienen polaridad, por lo que es indiferente el sentido en el 
 
 ![](https://lh3.googleusercontent.com/CfCAqhKsGLFpXs5lf8nafbPsOMisVM0HoxEoeUTe176B7yr-HdUBqSKoq898KwWG5HI-O-09Ow=w1920-h1080-rw-no)
 
-Por último hay que conectar el ventilador del fusor y el ventilador de capa. 
+Por último hay que conectar el ventilador del fusor y el ventilador de capa. El ventilador del fusor va conectado permanentemente a +12V, y el de capa va controlado por la RAMPS y se conecta al D9 en la RAMPS.
