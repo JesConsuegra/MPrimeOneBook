@@ -19,6 +19,6 @@
 * [Colocación de los imanes en el carro X para la sujección de la base de impresión](colocacion_de_los_imanes_en_el_carro_x_para_la_suj.md)
 * [Colocación del sensor electromagnético y del fusor](colocacion_del_sensor_electromagnetico_y_del_fusor.md)
 * [Electrónica](electronica.md)
-* [Electrónica: Conexión finales de carrera a la RAMPS](electronica_conexion_finales_de_carrera_a_la_ramps.md)
 * Electronica: preparación de los motores de pasos
+* [Electrónica: Conexión finales de carrera a la RAMPS](electronica_conexion_finales_de_carrera_a_la_ramps.md)
 
