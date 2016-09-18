@@ -1,6 +1,6 @@
-# Colocación de los imanes en el carro X para la sujección de la base de impresión
+# Colocación de la base de impresión
 
-He tenido que imprimir dos "x_axis_end"s modificando la pieza para incluir los imanes de 15mm de diámetrode que dispongo, mayores que los que se usan de forma estándar en la M'One.
+He tenido que imprimir dos "x_axis_end"s modificando la pieza para incluir los imanes de 15mm de diámetro de que dispongo, mayores que los que se usan de forma estándar en la M'One.
 
 También he modificado la pieza para usar imanes de 12,5mm de diámetro (A petición de Olivier).
 
@@ -32,3 +32,4 @@ Procedemos a marcar con un rotulador el perímetro de los círculos, los retiram
 ![](https://lh3.googleusercontent.com/8Cbx_rfXaooc5veaEWffPGO6NlvJkggkpQewZqpoqjUQhebdmSICTmqnI5JoDi3OyDlXyKRGbw=w1920-h1080-rw-no)
 
 ![](https://lh3.googleusercontent.com/bkQdveu0hrDjZImvjjVPtZCIsMNk61C-0pFXxnXuELPm9Mkc1AohWnZJuSVTnfmFXrMpbjgXlA=w1920-h1080-rw-no)
+Una vez fraguado el epoxy, sólo resta poner la base de impresión sobre el carro X.
