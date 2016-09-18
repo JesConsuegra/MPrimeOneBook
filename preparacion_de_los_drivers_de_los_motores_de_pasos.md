@@ -29,7 +29,7 @@ Para ello, el sencillo esquema que viene en la web de Pololu conectado a un Ardu
 
 y este simple sketch de un colega de Mechatronics.
 
-/*     Simple Stepper Motor Control Exaple Code
+/*     Simple Stepper Motor Control Example Code
  *      
  *  by Dejan Nedelkovski, www.HowToMechatronics.com
  *  
