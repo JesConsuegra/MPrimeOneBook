@@ -20,4 +20,5 @@
 * [Colocación del sensor electromagnético y del fusor](colocacion_del_sensor_electromagnetico_y_del_fusor.md)
 * [Electrónica](electronica.md)
 * [Electrónica: Conexión finales de carrera a la RAMPS](electronica_conexion_finales_de_carrera_a_la_ramps.md)
+* Electronica: preparación de los motores de pasos
 
