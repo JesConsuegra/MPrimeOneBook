@@ -14,9 +14,9 @@ Los termistores no tienen polaridad, por lo que es indiferente el sentido en el 
 
 ![](https://lh3.googleusercontent.com/CfCAqhKsGLFpXs5lf8nafbPsOMisVM0HoxEoeUTe176B7yr-HdUBqSKoq898KwWG5HI-O-09Ow=w1920-h1080-rw-no)
 
-Por último hay que conectar el ventilador del fusor y el ventilador de capa. El ventilador del fusor va conectado permanentemente a +12V, y el de capa va controlado por la RAMPS y se conecta al D9 en la RAMPS. Los ventiladores tienen polaridad y hay que respetarla (rojo a +12V, negro a masa).
+Por último hay que conectar el ventilador del fusor y el ventilador de capa. El ventilador del fusor va conectado permanentemente a +12V directamente en la entrada de la fuente de alimentación a la RAMPS, y el de capa va controlado por la RAMPS y se conecta al D9. Los ventiladores tienen polaridad y hay que respetarla (rojo a +12V, negro a masa).
 
-El ventilador del fusor ya viene instalado en el propio fusor. El de capa hay que instalarlo sobre el "hotend_and_probe_holder". No tiene ninguna complicación, incluso con la máquina montada, sólo hay que correr a mano el carro Y hasta el fondo y hay sitio suficiente para manipularlo. Se necesitan dos tornillos M3x20 y dos tuercas M3. El ventilador de capa que he utilizado lleva unos alojamientos para colocar las tuercas M3. Hay que tener la precaución de colocarlo en el sentido que impulse aire hacia la base de impresión.
+El ventilador del fusor ya viene instalado en el propio fusor. El de capa hay que instalarlo sobre el "hotend_and_probe_holder". No tiene ninguna complicación, incluso con la máquina montada, sólo hay que correr a mano el carro Y hasta el fondo. Hay sitio suficiente para manipularlo. Se necesitan dos tornillos M3x20 y dos tuercas M3. El ventilador de capa que he utilizado lleva unos alojamientos para colocar las tuercas M3. Hay que tener la precaución de colocarlo en el sentido que impulse aire hacia la base de impresión.
 
 ![](https://lh3.googleusercontent.com/bMIipVjGO5IX99NQyiA4F9osUvN7OE1x6CfgfLGPyebBazW6Dn5_yAge-N8FJfnzWrmzZF9I9A=w1920-h1080-rw-no)
 
