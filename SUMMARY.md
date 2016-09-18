@@ -23,4 +23,5 @@
 * [Electrónica: Conexión finales de carrera a la RAMPS](electronica_conexion_finales_de_carrera_a_la_ramps.md)
 * [Electrónica: Conexión del fusor](electronica_conexion_del_fusor.md)
 * [Montaje del extrusor](extrusor.md)
+* Preparación de los drivers de los motores de pasos (POLOLU)
 
