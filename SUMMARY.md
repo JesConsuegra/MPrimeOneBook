@@ -25,4 +25,5 @@
 * [Montaje del extrusor](extrusor.md)
 * [Preparación de los drivers de los motores de pasos (POLOLU)](preparacion_de_los_drivers_de_los_motores_de_pasos.md)
 * [Colocación de los Pololus en la RAMPS](colocacion_de_los_pololus_en_la_ramps.md)
+* Colocación del extrusor y el tubo PTFE
 
