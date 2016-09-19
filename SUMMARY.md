@@ -23,7 +23,7 @@
 * [Electrónica: Conexión finales de carrera a la RAMPS](electronica_conexion_finales_de_carrera_a_la_ramps.md)
 * [Electrónica: Conexión del fusor](electronica_conexion_del_fusor.md)
 * [Montaje del extrusor](extrusor.md)
-* [Firmware: Instalación de Arduino](firmware.md)
+* [Instalación de Arduino](firmware.md)
 * [Preparación de los drivers de los motores de pasos (POLOLU)](preparacion_de_los_drivers_de_los_motores_de_pasos.md)
 * [Colocación de los Pololus en la RAMPS](colocacion_de_los_pololus_en_la_ramps.md)
 * [Colocación del extrusor y el tubo PTFE](colocacion_del_extrusor_y_el_tubo_ptfe.md)
