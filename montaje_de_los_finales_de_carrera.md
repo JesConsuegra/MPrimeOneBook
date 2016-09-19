@@ -3,7 +3,8 @@
 Para los finales de carrera, disponía de unos microruptores minúsculos que encajan perfectamente en el hueco que existe a este efecto en los carros X e Y. Sin embargo, no tienen los terminales acodados, por lo que decidí no  poner el pequeño circuito impreso con el microruptor y un conector, sino que coloqué una pieza de plástico que sujeta al microruptor sobre el carro. Pierdo un poco de flexibilidad a la hora de cambiar el final de carrera en caso de avería, (tendré que soldar), pero no veo otra salida con esos microruptores.
 
 La plaquita de plástico soporte de los microruptores la teneis en Thingiverse: 
-  [http://www.thingiverse.com/thing:1252133](http://www.thingiverse.com/thing:1252133)
+
+  [Soporte de los microruptores](http://www.thingiverse.com/thing:1252133)
 
 También he creído conveniente colocar el Arduino y la RAMPS en su lugar para poder medir la longitud necesaria de los cables. Para la colocación del conjunto Arduino+RAMPS he optado por la posición en la que el botón de RESET de la RAMPS queda en la parte superior. En la otra posición queda muy inaccesible (con el botón hacia abajo).
 
