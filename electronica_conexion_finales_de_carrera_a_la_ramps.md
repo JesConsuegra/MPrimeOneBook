@@ -16,7 +16,7 @@ El esquema lo teneis en [la web de la M'One](http://mprime.io/es/question/conexi
 ![](http://mprime.io/wp-content/uploads/2015/09/Selection_003-141x300.png)
 Así es como lo he puesto yo:
 
-El diodo, hay que soldarlo al terminal negro del sensor inductivo, con el cátodo hacia el sensor (rayita negra en el cuerpo del diodo). Los otros dos cables, el azul es masa y el marrón es +12v.
+El diodo (he usado un pequeño diodo de señal 1N4148), hay que soldarlo al terminal negro del sensor inductivo, con el cátodo hacia el sensor (rayita negra en el cuerpo del diodo). Los otros dos cables, el azul es masa y el marrón es +12v.
 
 Le he añadido un pequeño conector (de recuperación) para conectar a la RAMPs en los contactos correspondientes al final de carrera Zmin.
 
