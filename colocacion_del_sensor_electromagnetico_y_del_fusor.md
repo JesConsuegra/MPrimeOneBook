@@ -7,7 +7,7 @@
  
  Y esta es la solución:
  
- [](http://www.thingiverse.com/thing:1269118)
+ [Soporte largo para el sensor inductivo](http://www.thingiverse.com/thing:1269118)
  
  ![](http://thingiverse-production-new.s3.amazonaws.com/renders/00/b8/49/52/11/f114afe0c10b274e7eaef8dabae9adf3_preview_featured.jpg)
  
