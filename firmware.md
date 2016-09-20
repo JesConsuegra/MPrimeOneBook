@@ -5,7 +5,7 @@ Para poder configurar los POLOLUs y probar los motores hay que instalar Arduino 
 
 La instalación tanto bajo Linux como bajo Windows es muy sencilla. Arduino instala también los drivers USB para la conexión con la impresora, con lo que al final del proceso de instalación deberíamos tener conexión con la impresora. Arduino nos va a permitir mas tarde cargar el firmware Marlin en la impresora.
 
-Arduino se puede bajar de su web, la versión en el momento de escribir este tutorial es la 1.6.11:
+Arduino se puede bajar de su web, la versión en el momento de escribir este tutorial es la 1.6.11. Hay que seguir las instrucciones que hay en su web.
 
   [Arduino](https://www.arduino.cc/en/Main/Software)
   
