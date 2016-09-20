@@ -6,13 +6,13 @@ El firmware estándar está en el GitHub de la M'One:
   
 El firmware consiste en un programa principal (**Marlin.ino**) y un montón de ficheros de configuración ***.h**
 
-De esos ficheros probablemente sólo tendremos que modificar "configuration.h" y sólo si hemos utilizado componentes distintos al estándar de la M'One (como es mi caso, por ejemplo el extrusor).
+De esos ficheros probablemente sólo tendremos que modificar "configuration.h" y sólo si hemos utilizado componentes distintos al estándar de la M'One (como en mi caso, por ejemplo el extrusor).
 
 Así es como se vé Marlin dentro del Arduino IDE:
 
 ![](2016-09-20 03_20_12-Marlin Arduino 1.6.6.png)
 
-En la parte superior de la pantalla están las pestañas con los archivos que componen Marlin. La quinta pestaña es "Configuration.h", donde se concentran la mayoría de los parámetros de configuración.
+En la parte superior de la pantalla están las pestañas con los archivos que componen Marlin. La quinta pestaña es "Configuration.h", donde se concentran la mayoría de los parámetros de configuración. Hay que abrirlo y modificarlo (si es preciso).
 
 Lo primero que hay que revisar es la velocidad de conexión serie:
 
