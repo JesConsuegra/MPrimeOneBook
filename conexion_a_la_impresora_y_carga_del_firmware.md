@@ -11,3 +11,5 @@ Antes de poder cargar el firmware, tenemos que hacer una pequeña configuración
 Placa y Procesador, según se indica en la imagen anterior.
 
 Puerto: se activa si el PC detecta un Arduino. Si está en gris (como en la imagen) indica que el PC no reconoce ningún Arduino conectado.
+
+Una vez conectado al puerto, hay que ver si la velocidad es compatible y si no configurarla. Para eso vamos al mismo menú y seleccionamos "Monitor Serie".
