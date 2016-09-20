@@ -28,4 +28,5 @@
 * [Colocación de los Pololus en la RAMPS](colocacion_de_los_pololus_en_la_ramps.md)
 * [Colocación del extrusor y el tubo PTFE](colocacion_del_extrusor_y_el_tubo_ptfe.md)
 * [Modificaciones al firmware (Marlin)](modificaciones_al_firmware_marlin.md)
+* Conexión a la impresora y carga del firmware
 
