@@ -1,4 +1,4 @@
-# Colocación del sensor electromagnético y del fusor
+# Colocación del sensor inductivo y del fusor
 
  Como fusor estoy utilizando un E3D V5 que es un poco mas largo que el que se utiliza de forma estándar en la M'One, (el E3D V6 Lite), por lo que el "hotend_and_probe_holder" queda corto para que el sensor se acerque suficientemente a la base de impresión. He tenido que modificar la pieza estándar para hacerla mas larga.
  
