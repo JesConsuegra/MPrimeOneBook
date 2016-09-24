@@ -6,10 +6,10 @@ Conectamos el cable USB al PC/Mac que estemos utilizando. Eso es suficiente para
 
 Antes de poder cargar el firmware, tenemos que hacer una pequeña configuración en el Arduino IDE para indicarle qué procesador estamos usando y en que puerto está conectado. En la barra de menús, seleccionamos "Herramientas" y en el desplegable hay que modificar "Placa", "Procesador" y "Puerto".
 
-![](2016-09-20 04_09_59-Program Manager.png)
+![](2016-09-24 10_32_56-Program Manager.png)
 
 Placa y Procesador, según se indica en la imagen anterior.
 
-Puerto: se activa si el PC detecta un Arduino. Si está en gris (como en la imagen) indica que el PC no reconoce ningún Arduino conectado.
+Puerto: se activa si el PC detecta un Arduino. Si está en gris  indica que el PC no reconoce ningún Arduino conectado.
 
-Una vez conectado al puerto, hay que ver si la velocidad es compatible y si no configurarla. Para eso vamos al mismo menú y seleccionamos "Monitor Serie".
+Una vez modificado "Configuration.h" pulsamos el botón de carga y Arduino IDE compila Marlin y lo envía a la tarjeta. Esto completa la configuración del firmware y podemos proceder a efectuar los ajustes finos y empezar las pruebas.
