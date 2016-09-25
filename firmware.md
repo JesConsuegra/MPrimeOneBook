@@ -1,4 +1,4 @@
-# Firmware: Instalación de Arduino
+# Firmware: Instalación del Arduino IDE
 
 
 Para poder configurar los POLOLUs y probar los motores hay que instalar Arduino en un PC o un Mac. Arduino en los PC está soportado tanto bajo Linux como bajo Windows e incluso hay algún clone que funciona en tablets bajo Android. Yo prefiero usar el software original bajo Linux o Windows (uso normalmente Linux, una distro basada en Debian que se llama "BunsenLab Hydrogen"). 
