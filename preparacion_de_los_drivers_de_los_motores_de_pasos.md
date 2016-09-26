@@ -30,42 +30,6 @@ Para ello, el sencillo esquema que viene en la web de Pololu conectado a un Ardu
 
 y este simple sketch de un colega de Mechatronics, que hace girar el motor una vuelta completa en sentido horario y dos vueltas en sentido antihorario y así sucesivamente.
 
-
-/*     Simple Stepper Motor Control Example Code
- *      
- *  by Dejan Nedelkovski, www.HowToMechatronics.com
- *  
- */
-// defines pins numbers
-const int stepPin = 3; 
-const int dirPin = 4; 
- 
-void setup() {
-  // Sets the two pins as Outputs
-  pinMode(stepPin,OUTPUT); 
-  pinMode(dirPin,OUTPUT);
-}
-void loop() {
-  digitalWrite(dirPin,HIGH); // Enables the motor to move in a particular direction
-  // Makes 200 pulses for making one full cycle rotation
-  for(int x = 0; x < 200; x++) {
-    digitalWrite(stepPin,HIGH); 
-    delayMicroseconds(500); 
-    digitalWrite(stepPin,LOW); 
-    delayMicroseconds(500); 
-  }
-  delay(1000); // One second delay
-  
-  digitalWrite(dirPin,LOW); //Changes the rotations direction
-  // Makes 400 pulses for making two full cycle rotation
-  for(int x = 0; x < 400; x++) {
-    digitalWrite(stepPin,HIGH);
-    delayMicroseconds(500);
-    digitalWrite(stepPin,LOW);
-    delayMicroseconds(500);
-  }
-  delay(1000);
-}
-
+![](p.png)
 
 Un corto video del motor del  [Extrusor moviéndose](https://youtu.be/0IE1dXPrINE)
