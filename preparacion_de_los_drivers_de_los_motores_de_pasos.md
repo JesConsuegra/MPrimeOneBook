@@ -28,7 +28,8 @@ Para ello, el sencillo esquema que viene en la web de Pololu conectado a un Ardu
 
 ![](https://a.pololu-files.com/picture/0J3360.600.png?d94ef1356fab28463db67ff0619afadf)
 
-y este simple sketch de un colega de Mechatronics.
+y este simple sketch de un colega de Mechatronics, que hace girar el motor una vuelta completa en sentido horario y dos vueltas en sentido antihorario y así sucesivamente.
+
 
 /*     Simple Stepper Motor Control Example Code
  *      
